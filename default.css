@@ -1,0 +1,80 @@
+body{
+    font-family: 'Julius Sans One', sans-serif;
+    text-align: center;
+}
+.bg{
+    height: 100vh;
+    width: auto;
+    background-image: url(images/bgimage.jpg);
+    background-size: cover;
+}
+.dark{
+    background-color: black;
+    opacity: 0.2;
+    height:inherit;
+}
+.topbar{
+
+    padding-top: 30px;
+    font-size: 24px;
+    color: white;
+    
+}
+.headerTitle{
+    padding-top: 15%;
+    color: white;
+}
+.headerTitle span{
+    font-size: 12vh;
+    
+}
+.aboutus{
+    padding-top: 40px;
+    color: dimgrey;
+}
+.aboutus span{
+    font-weight: bold;
+    font-size: 24px;
+    color:black;
+}
+.aboutus p{
+    color: sienna;
+    font-weight: bold;
+}
+.imagebody{
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.whatwedo{
+    margin-top: 40px;
+    font-size: 32px;
+    margin-bottom: 70px;
+}
+.whatwedo span{
+    font-size: 16px;
+}
+.subproject{
+    font-size: 12px;
+    padding-bottom: 20px;
+}
+.subproject span{
+    font-size: 20px;
+    font-weight: bold;
+}
+.freebies{
+    padding-top: 40px; 
+    padding-bottom: 40px; 
+}
+.freebies span{
+    font-size: 20px;
+    font-weight: bold;
+}
+.map{
+    width: 100vw;
+}
+.bottomheader{
+    background-color: #212428;
+    height: 50px;
+    color: white;
+}
